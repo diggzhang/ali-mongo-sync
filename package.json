@@ -1,0 +1,25 @@
+{
+  "name": "ali-mongo-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diggzhang/ali-mongo-sync.git"
+  },
+  "author": "diggzhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diggzhang/ali-mongo-sync/issues"
+  },
+  "homepage": "https://github.com/diggzhang/ali-mongo-sync#readme",
+  "dependencies": {
+    "async": "^2.1.4",
+    "mongo-oplog": "^2.0.2",
+    "mongojs": "^2.4.0",
+    "redis": "^2.6.3"
+  }
+}
